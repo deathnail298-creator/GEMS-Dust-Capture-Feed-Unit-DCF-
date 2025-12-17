@@ -1,0 +1,139 @@
+1.1 Purpose of Phase 1
+
+Phase 1 exists to define a bounded, non-optimizing prototype and test scope for the GEMS Dust Capture & Feed Unit (DCF).
+
+Phase 1 authorizes limited physical testing to answer basic feasibility questions about passive dust interception, handling, and survivability. It does not authorize scaling, operational deployment, or integration into mission-critical systems.
+
+1.2 Phase 1 Prototype Definition (Bounded)
+
+A Phase 1 DCF prototype consists of:
+
+A fixed, passive capture geometry (mouth / inlet / baffle)
+
+A gravity-fed storage volume (hopper or bin)
+
+A manual emptying interface (dump, scoop, or bag-out)
+
+Structural mounting suitable for static placement
+
+Constraints:
+
+No power
+
+No sensors
+
+No active flow control
+
+No moving parts required for capture
+
+No automation
+
+Multiple prototype geometries may be fabricated only to compare passive performance, not to optimize or finalize a design.
+
+1.3 Authorized Phase 1 Test Activities
+
+Phase 1 testing is limited to:
+
+Capture feasibility testing
+
+Does dust enter and remain in the container under representative disturbance?
+
+Geometry comparison
+
+Relative performance of different passive inlet shapes
+
+Filling behavior
+
+Accumulation rate, bridging, clogging, and overflow tendencies
+
+Manual handling evaluation
+
+Ease and messiness of emptying
+
+Ergonomic considerations
+
+Survivability testing
+
+Abrasion
+
+Structural robustness
+
+Dust fouling of passive features
+
+Testing may be conducted in:
+
+Laboratory simulants
+
+Analog environments
+
+Controlled field tests
+
+No vacuum, thermal, or long-duration environmental qualification is implied.
+
+1.4 Explicit Phase 1 Exclusions
+
+Phase 1 does not include:
+
+Performance guarantees or targets
+
+Dust suppression effectiveness claims
+
+Continuous or automated transfer
+
+Integration with GEMS or other downstream systems
+
+Environmental sealing or pressurization
+
+Lifetime or maintenance modeling
+
+Scaling analysis
+
+Mission readiness or TRL advancement beyond basic feasibility
+
+Any such activities are explicitly out of scope.
+
+1.5 Phase 1 Success Criteria
+
+Phase 1 is considered successful if:
+
+Passive capture of already-mobile dust is demonstrated under test conditions
+
+Dust can be manually removed without catastrophic loss or excessive complexity
+
+No active systems are required for basic function
+
+Failure modes (clogging, spillover, abrasion) are observable and understandable
+
+The concept remains mechanically simple and robust
+
+Success does not require high efficiency, optimization, or operational endorsement.
+
+1.6 Phase 1 Termination / Kill Criteria
+
+Phase 1 should be terminated if:
+
+Passive capture is negligible regardless of placement or geometry
+
+Dust consistently re-aerosolizes or escapes during normal handling
+
+The design requires active assistance to function
+
+Manual handling is unacceptably unsafe or impractical
+
+Survivability issues render the concept non-viable even at small scale
+
+Termination is a valid Phase 1 outcome.
+
+1.7 Phase 1 Status
+
+Prototype-level only
+
+Test and observe, not optimize
+
+No downstream commitments
+
+No implied deployment
+
+Plain-English Summary
+
+Phase 1 authorizes small, passive prototypes of the DCF to test whether a simple “space bucket” can intercept and hold already-mobile dust and be manually emptied. It deliberately avoids optimization, automation, or operational claims and exists only to decide whether the concept is viable at all.
