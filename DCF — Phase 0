@@ -1,0 +1,107 @@
+0.1 Purpose
+
+The GEMS Dust Capture & Feed Unit (DCF) is a passive, always-open dust interception container intended to capture already-airborne or already-loose lunar regolith dust in high-traffic areas (pads, corridors, activity zones), and to hold it for manual handling and downstream routing (e.g., GEMS input, slag processing input, or disposal).
+
+DCF does not prevent dust creation. It is an interception and collection container.
+
+0.2 What It Is
+
+DCF is a static dust capture and staging unit consisting of:
+
+A passive, always-open capture geometry (mouth / inlet / baffle) that allows dust to enter
+
+A gravity-fed hopper / bin volume for holding captured dust
+
+A manual emptying or manual transfer interface (bag-out, dump, scoop, etc.)
+
+Optional passive interfaces for downstream equipment connection (physical docking or alignment surfaces only)
+
+DCF may be deployed as a standalone field asset or as a “site furniture” component used repeatedly.
+
+0.3 What It Is Not (Non-Claims)
+
+DCF is not:
+
+An active vacuum system (no suction, fans, pumps)
+
+A dust suppression system (no plume control claims)
+
+A filtration system (no particle-size separation claims)
+
+A powered system (no power requirement)
+
+A sensing system (no sensors, no telemetry, no automation)
+
+A continuous transfer device (no continuous conveyance)
+
+A sealing or pressurizing system
+
+A safety-certified containment guarantee (no “zero leak” claim)
+
+DCF makes no claim of eliminating dust, preventing dust exposure, or achieving any specific cleanliness standard.
+
+0.4 System Boundaries & Ownership
+
+DCF scope includes only:
+
+Passive capture geometry
+
+Passive storage volume (hopper/bin)
+
+Passive structural elements and mounting features
+
+Passive manual handling features (latches, handles, bag hooks, etc. — no powered actuation)
+
+DCF scope explicitly excludes:
+
+Any powered extraction
+
+Any robotics or autonomous handling
+
+Any environmental control (thermal, pressurized enclosure, purging)
+
+Any guarantees about downstream processing performance
+
+Downstream systems (GEMS, slag processing, disposal hardware) are out of scope and remain the responsibility of their owners.
+
+0.5 Operating Context
+
+DCF is intended for deployment in lunar surface environments where dust is mobilized by:
+
+Foot traffic
+
+Rover traffic
+
+Local activity near pads/corridors
+
+General site operations
+
+DCF is positioned to intercept dust that is already moving through the site, with emphasis on low-complexity, high-survivability site infrastructure.
+
+0.6 Phase 0 Success Criteria
+
+Phase 0 is successful if the DCF concept is unambiguous and bounded:
+
+The purpose is clear: intercept and stage already-mobile dust
+
+The unit is clearly passive: no power, no sensors, no moving parts required
+
+Interfaces and exclusions are explicit enough that the concept cannot be misread as a full dust mitigation solution
+
+The scope is small enough to be realistically prototype-testable in Phase 1
+
+0.7 Primary Risks (Acknowledged, Not Solved in Phase 0)
+
+Dust may not preferentially enter the capture geometry without favorable placement
+
+Overfilling / clogging behavior depends on geometry and operating patterns
+
+Manual emptying may be messy or ergonomically poor without careful design
+
+Windless lunar environment means dust transport patterns may be highly localized and activity-driven
+
+These are Phase 1 questions, not Phase 0 claims.
+
+Plain-English Summary
+
+The DCF is a passive “space bucket” intended to intercept and hold dust that is already airborne or already loose in high-traffic lunar areas. It does not claim to stop dust from being created or to actively remove it. Phase 0 only defines the concept, boundaries, and non-claims clearly enough to justify a bounded Phase 1 test.
